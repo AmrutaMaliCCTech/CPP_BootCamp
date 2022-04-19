@@ -1,4 +1,5 @@
 *.o
-Hello
+hello
 hello.exe
 *.json
+mali.cpp
